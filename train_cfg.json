@@ -1,0 +1,9 @@
+{
+    "train_data_path": "D:\\ieos\\data\\train_datasets\\64x128\\human_dataset_64x128_2",
+    "bg_data_path": "D:\\ieos\\data\\train_datasets\\bg_augmented_dataset",
+    "test_data_path": "D:\\ieos\\data\\test_datasets\\test_dataset_128x64",
+    "save_path": "ieos_model",
+    "img_size": [128, 64],
+    "batch_size": 32,
+    "epochs": 200
+}
